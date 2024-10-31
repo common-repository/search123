@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Search123\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-13 15:37+0100\n"
+"PO-Revision-Date: 2011-01-19 11:48+0100\n"
+"Last-Translator: Tim Zylinski <tzylinski@valueclick.com>\n"
+"Language-Team: Tim Zylinski <tzylinski@valueclick.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: D:\\work\\web\\dev_projects\\wpdev\\wp-content\\plugins\\search123\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: php/search123.class.php:125
+msgid "Settings"
+msgstr "Paramètres"
+
+#: php/search123.class.php:263
+msgid "Color values must be hexadecimal."
+msgstr "Les valeurs des couleurs doivent être héxadécimales."
+
+#: php/search123.class.php:265
+msgid "The settings were saved."
+msgstr "Les paramètres ont été sauvegardés."
+
+#: php/search123.class.php:269
+msgid "S123 Settings"
+msgstr "Réglages S123"
+
+#: php/search123.class.php:276
+msgid "general settings"
+msgstr "Réglages Standards"
+
+#: php/search123.class.php:282
+msgid "Search123 publisher ID"
+msgstr "Identifiant Editeur Search123"
+
+#: php/search123.class.php:285
+msgid "Please enter your Search123 Publisher ID!"
+msgstr "Entrez votre Identifiant Editeur Search123!"
+
+#: php/search123.class.php:290
+msgid "keyword"
+msgstr "mot-clé"
+
+#: php/search123.class.php:294
+msgid "use keyword input"
+msgstr "utiliser l'insertion de mot-clé"
+
+#: php/search123.class.php:294
+msgid "(if there are no keywords specified, the default keyword selection will be used)"
+msgstr "(si les mots clés ne sont pas spécifiés, la sélection de mots clés par défaut sera utilisée)"
+
+#: php/search123.class.php:298
+msgid "tags"
+msgstr ""
+
+#: php/search123.class.php:302
+msgid "use tags"
+msgstr "utilise les tags"
+
+#: php/search123.class.php:302
+msgid "(if there are no tags, the specified keywords or default keyword selection will be used)"
+msgstr "(si aucun tag n’est disponible, les mots clés spécifiés ou la sélection de mots clés par défaut seront utilisés)"
+
+#: php/search123.class.php:306
+msgid "CSS"
+msgstr "CSS"
+
+#: php/search123.class.php:310
+msgid "use CSS file"
+msgstr "utiliser le fichier CSS"
+
+#: php/search123.class.php:314
+#: php/search123widget.class.php:52
+msgid "display"
+msgstr "afficher"
+
+#: php/search123.class.php:318
+#: php/search123widget.class.php:57
+msgid "vertical"
+msgstr "vertical"
+
+#: php/search123.class.php:321
+#: php/search123widget.class.php:55
+msgid "horizontal"
+msgstr "horizontal"
+
+#: php/search123.class.php:325
+#: php/search123widget.class.php:45
+msgid "number of ads"
+msgstr "nombre de publicités"
+
+#: php/search123.class.php:341
+msgid "layout"
+msgstr "maquette"
+
+#: php/search123.class.php:343
+msgid "common layout"
+msgstr "maquette standard"
+
+#: php/search123.class.php:346
+msgid "font"
+msgstr "police"
+
+#: php/search123.class.php:359
+msgid "border color"
+msgstr "couleur de la bordure"
+
+#: php/search123.class.php:362
+#: php/search123.class.php:385
+#: php/search123.class.php:408
+#: php/search123.class.php:430
+msgid "(default: 000000)"
+msgstr "(défaut: 000000)"
+
+#: php/search123.class.php:369
+msgid "background color"
+msgstr "couleur arrière plan"
+
+#: php/search123.class.php:372
+msgid "(default: ffffff)"
+msgstr "(défaut: ffffff)"
+
+#: php/search123.class.php:377
+msgid "title"
+msgstr "titre"
+
+#: php/search123.class.php:382
+#: php/search123.class.php:405
+#: php/search123.class.php:428
+msgid "color"
+msgstr "couleur"
+
+#: php/search123.class.php:390
+#: php/search123.class.php:413
+#: php/search123.class.php:435
+msgid "font size"
+msgstr "taille de police"
+
+#: php/search123.class.php:400
+msgid "description"
+msgstr "description"
+
+#: php/search123.class.php:423
+msgid "URL Link"
+msgstr "Lien URL"
+
+#: php/search123.class.php:449
+msgid "Save Changes"
+msgstr "Sauvergarder les modifications"
+
+#: php/search123.class.php:586
+msgid "advert"
+msgstr "publicité"
+
+#: php/search123widget.class.php:40
+msgid "Title:"
+msgstr "Titre:"
+

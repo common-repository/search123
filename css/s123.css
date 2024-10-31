@@ -1,0 +1,30 @@
+.s123 {
+	background-color: #fff;
+	padding: 6px;
+}
+
+.s123 .s123entry {
+	margin-bottom: 24px;
+}
+
+.s123 .s123title {
+	font-family: Georgia, serif;
+	font-size: 10pt;
+	font-weight: bolder;
+	text-decoration: underline;
+	color: #2850d4;
+}
+
+.s123 .s123text {
+	font-family: Verdana, sans-serif;
+	font-size: 9pt;
+	color: #000;
+	margin: 3px 0 3px 0
+}
+
+.s123 .s123link {
+	font-family: 'Times New Roman', serif;
+	font-size: 8pt;
+	text-decoration: underline;
+	color: #2850d4;
+}
